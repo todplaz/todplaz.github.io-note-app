@@ -11,6 +11,8 @@ On peut donc aisement:
 
 L'application évoluera dans le temps car je compte y ajouter des participants qui influeront sur l'action des taches.
 
+Vous pouvez visualiser le résultat via l'adresse : https://todplaz.github.io/todplaz.github.io-note-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
