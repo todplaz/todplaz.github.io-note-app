@@ -3,10 +3,10 @@
 Note app est une application très connu sous le nom de bloc note.
 Je me suis aidé d'une vidéo tutoriel afin d'integrer Typescript dans ce projet d'apprentissage et le mener à bien.
 On peut donc aisement: 
--créer des taches
--barrer ces taches comme étant terminées
--modifier les taches 
--supprimer les taches
+-créer des taches.\
+-barrer ces taches comme étant terminées.\
+-modifier les taches.\
+-supprimer les taches.\
 
 L'application évoluera dans le temps car je compte y ajouter des participants qui influeront sur l'action des taches.
 
