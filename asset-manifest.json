@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/todplaz.github.io-note-app/static/css/main.383cad16.chunk.css",
+    "main.js": "/todplaz.github.io-note-app/static/js/main.a62851c9.chunk.js",
+    "main.js.map": "/todplaz.github.io-note-app/static/js/main.a62851c9.chunk.js.map",
+    "runtime-main.js": "/todplaz.github.io-note-app/static/js/runtime-main.d9321f3f.js",
+    "runtime-main.js.map": "/todplaz.github.io-note-app/static/js/runtime-main.d9321f3f.js.map",
+    "static/js/2.923c0605.chunk.js": "/todplaz.github.io-note-app/static/js/2.923c0605.chunk.js",
+    "static/js/2.923c0605.chunk.js.map": "/todplaz.github.io-note-app/static/js/2.923c0605.chunk.js.map",
+    "index.html": "/todplaz.github.io-note-app/index.html",
+    "static/css/main.383cad16.chunk.css.map": "/todplaz.github.io-note-app/static/css/main.383cad16.chunk.css.map",
+    "static/js/2.923c0605.chunk.js.LICENSE.txt": "/todplaz.github.io-note-app/static/js/2.923c0605.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9321f3f.js",
+    "static/js/2.923c0605.chunk.js",
+    "static/css/main.383cad16.chunk.css",
+    "static/js/main.a62851c9.chunk.js"
+  ]
+}
